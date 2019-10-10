@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>猫的巧克力会发光</title>
+  
+  <subtitle>猫和它的小小窝</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://inkss.cn/"/>
+  <updated>2019-09-30T06:34:46.513Z</updated>
+  <id>https://inkss.cn/</id>
+  
+  <author>
+    <name>Inkss</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SpringBoot 笔记</title>
+    <link href="https://inkss.cn/article/java/319f3669.html"/>
+    <id>https://inkss.cn/article/java/319f3669.html</id>
+    <published>2019-09-29T16:00:00.000Z</published>
+    <updated>2019-09-30T06:34:46.513Z</updated>
+    
+    <summary type="html">
+    
+      Spring 注解、静态文件存放位置、日志、配置文件、自动配置原理。
+    
+    </summary>
+    
+      <category term="java" scheme="https://inkss.cn/categories/java/"/>
+    
+    
+      <category term="Java" scheme="https://inkss.cn/tags/Java/"/>
+    
+      <category term="SpringBoot" scheme="https://inkss.cn/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 报表模板 Excel 导出（二）</title>
+    <link href="https://inkss.cn/article/java/4cc75370.html"/>
+    <id>https://inkss.cn/article/java/4cc75370.html</id>
+    <published>2019-09-29T16:00:00.000Z</published>
+    <updated>2019-09-30T06:43:12.941Z</updated>
+    
+    <summary type="html">
+    
+      基于 Java 语言的模板化报表导出（二）
+    
+    </summary>
+    
+      <category term="java" scheme="https://inkss.cn/categories/java/"/>
+    
+    
+      <category term="excel" scheme="https://inkss.cn/tags/excel/"/>
+    
+      <category term="导出" scheme="https://inkss.cn/tags/%E5%AF%BC%E5%87%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人用软件列表清单</title>
+    <link href="https://inkss.cn/article/other/bdce2ea4.html"/>
+    <id>https://inkss.cn/article/other/bdce2ea4.html</id>
+    <published>2019-09-26T16:00:00.000Z</published>
+    <updated>2019-09-27T07:35:45.486Z</updated>
+    
+    <summary type="html">
+    
+      个人使用的软件列表清单
+    
+    </summary>
+    
+      <category term="other" scheme="https://inkss.cn/categories/other/"/>
+    
+    
+      <category term="软件" scheme="https://inkss.cn/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="划水" scheme="https://inkss.cn/tags/%E5%88%92%E6%B0%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 报表模板 Excel 导出（一）</title>
+    <link href="https://inkss.cn/article/java/958bc658.html"/>
+    <id>https://inkss.cn/article/java/958bc658.html</id>
+    <published>2019-09-24T16:00:00.000Z</published>
+    <updated>2019-09-25T02:38:17.076Z</updated>
+    
+    <summary type="html">
+    
+      基于 Java 语言的模板化报表导出
+    
+    </summary>
+    
+      <category term="java" scheme="https://inkss.cn/categories/java/"/>
+    
+    
+      <category term="excel" scheme="https://inkss.cn/tags/excel/"/>
+    
+      <category term="导出" scheme="https://inkss.cn/tags/%E5%AF%BC%E5%87%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 博客部署 Valine 评论通知功能</title>
+    <link href="https://inkss.cn/article/info/faca9026.html"/>
+    <id>https://inkss.cn/article/info/faca9026.html</id>
+    <published>2019-09-04T16:00:00.000Z</published>
+    <updated>2019-09-14T15:03:27.939Z</updated>
+    
+    <summary type="html">
+    
+      为基于 Valine 评论系统部署评论邮件提醒能力。
+    
+    </summary>
+    
+      <category term="info" scheme="https://inkss.cn/categories/info/"/>
+    
+    
+      <category term="Hexo" scheme="https://inkss.cn/tags/Hexo/"/>
+    
+      <category term="Valine" scheme="https://inkss.cn/tags/Valine/"/>
+    
+      <category term="评论" scheme="https://inkss.cn/tags/%E8%AF%84%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>猫之三千岁：网站状态概述</title>
+    <link href="https://inkss.cn/article/other/b0e91f3f.html"/>
+    <id>https://inkss.cn/article/other/b0e91f3f.html</id>
+    <published>2019-07-21T16:00:00.000Z</published>
+    <updated>2019-09-10T08:22:02.375Z</updated>
+    
+    <summary type="html">
+    
+      本网站的状态
+    
+    </summary>
+    
+      <category term="other" scheme="https://inkss.cn/categories/other/"/>
+    
+    
+      <category term="网站" scheme="https://inkss.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="Hexo" scheme="https://inkss.cn/tags/Hexo/"/>
+    
+      <category term="Cloud Studio" scheme="https://inkss.cn/tags/Cloud-Studio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个性化提交：Git Emoji 指南</title>
+    <link href="https://inkss.cn/article/git/d0be228a.html"/>
+    <id>https://inkss.cn/article/git/d0be228a.html</id>
+    <published>2019-07-18T16:00:00.000Z</published>
+    <updated>2019-09-10T08:21:58.147Z</updated>
+    
+    <summary type="html">
+    
+      Git commit emoji
+    
+    </summary>
+    
+      <category term="git" scheme="https://inkss.cn/categories/git/"/>
+    
+    
+      <category term="Git" scheme="https://inkss.cn/tags/Git/"/>
+    
+      <category term="emoji" scheme="https://inkss.cn/tags/emoji/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu 下联想 Y7KP 显卡和网卡驱动配置</title>
+    <link href="https://inkss.cn/article/linux/9a96536e.html"/>
+    <id>https://inkss.cn/article/linux/9a96536e.html</id>
+    <published>2019-04-01T16:00:00.000Z</published>
+    <updated>2019-09-14T15:05:09.023Z</updated>
+    
+    <summary type="html">
+    
+      Ubuntu 18.04 下联想 Y7000P 的网卡和显卡驱动安装配置。
+    
+    </summary>
+    
+      <category term="linux" scheme="https://inkss.cn/categories/linux/"/>
+    
+    
+      <category term="联想Y7000P" scheme="https://inkss.cn/tags/%E8%81%94%E6%83%B3Y7000P/"/>
+    
+      <category term="网卡驱动" scheme="https://inkss.cn/tags/%E7%BD%91%E5%8D%A1%E9%A9%B1%E5%8A%A8/"/>
+    
+      <category term="显卡驱动" scheme="https://inkss.cn/tags/%E6%98%BE%E5%8D%A1%E9%A9%B1%E5%8A%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu 18.04 安装笔记</title>
+    <link href="https://inkss.cn/article/linux/c6df61d3.html"/>
+    <id>https://inkss.cn/article/linux/c6df61d3.html</id>
+    <published>2019-03-14T16:00:00.000Z</published>
+    <updated>2019-09-10T08:21:43.795Z</updated>
+    
+    <summary type="html">
+    
+      完整介绍 Ubuntu 18.04 LTS X86_64 的安装过程，拒绝零零散散 :two_hearts:。基础使用环境的搭建，暂定目标为一篇文章解决大部分疑问。
+    
+    </summary>
+    
+      <category term="linux" scheme="https://inkss.cn/categories/linux/"/>
+    
+    
+      <category term="Ubuntu 18.04" scheme="https://inkss.cn/tags/Ubuntu-18-04/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Office 365 免费订阅申请</title>
+    <link href="https://inkss.cn/article/info/82e6dcea.html"/>
+    <id>https://inkss.cn/article/info/82e6dcea.html</id>
+    <published>2018-09-29T13:26:26.000Z</published>
+    <updated>2019-09-25T03:02:05.620Z</updated>
+    
+    <summary type="html">
+    
+      免费申请一年 Office 365 E3 订阅，自定义 Office 域设置。
+    
+    </summary>
+    
+      <category term="info" scheme="https://inkss.cn/categories/info/"/>
+    
+    
+      <category term="Office" scheme="https://inkss.cn/tags/Office/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浅谈泛域名：解析、证书、分发</title>
+    <link href="https://inkss.cn/article/other/8967398c.html"/>
+    <id>https://inkss.cn/article/other/8967398c.html</id>
+    <published>2018-09-25T05:48:49.000Z</published>
+    <updated>2019-09-25T03:02:16.100Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;&lt;li&gt;概述：本文主要介绍这些内容： &lt;strong&gt;DNS 泛域名解析&lt;/strong&gt;、&lt;strong&gt;SSL 泛域名证书申请&lt;/strong&gt;、&lt;strong&gt;CDN 泛域名加速（分发）。&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;前置：本文中 DNS 服务商为 &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="other" scheme="https://inkss.cn/categories/other/"/>
+    
+    
+      <category term="Linux" scheme="https://inkss.cn/tags/Linux/"/>
+    
+      <category term="网站" scheme="https://inkss.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 博客搭建</title>
+    <link href="https://inkss.cn/article/info/196d2ba7.html"/>
+    <id>https://inkss.cn/article/info/196d2ba7.html</id>
+    <published>2018-09-14T16:00:00.000Z</published>
+    <updated>2019-09-10T08:20:40.567Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;&lt;p&gt;本文偏向于记录备份，非新手向教程，仅供参考。 🐱&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;先说搭建这个博客的原因：在搭建博客之前我的所有的文章都是存储在 &lt;a href=&quot;https://github.com/inkss/markdown&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="info" scheme="https://inkss.cn/categories/info/"/>
+    
+    
+      <category term="网站" scheme="https://inkss.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="Hexo" scheme="https://inkss.cn/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Shadowsocks 设置终端代理</title>
+    <link href="https://inkss.cn/article/linux/f44c3b52.html"/>
+    <id>https://inkss.cn/article/linux/f44c3b52.html</id>
+    <published>2018-09-09T16:00:00.000Z</published>
+    <updated>2019-09-10T08:21:04.003Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今天在使用 NVM 安装 Node.js 时，在终端下到克隆仓库这一步时体验简直崩溃，几乎没有网速。所以就迫切的需要 Shadowsocks 也能够代理终端下的命令。Shadowsoks 相关配置参阅这里： &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://inkss.cn/categories/linux/"/>
+    
+    
+      <category term="Shadowsocks" scheme="https://inkss.cn/tags/Shadowsocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 命令概述</title>
+    <link href="https://inkss.cn/article/linux/e8e370d.html"/>
+    <id>https://inkss.cn/article/linux/e8e370d.html</id>
+    <published>2018-09-09T16:00:00.000Z</published>
+    <updated>2019-09-10T08:20:47.739Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;OS： &lt;strong&gt;Deepin 15.5&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shell： &lt;strong&gt;zsh 5.3.1&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2 id=&quot;1基础命令&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://inkss.cn/categories/linux/"/>
+    
+    
+      <category term="Linux" scheme="https://inkss.cn/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 系统命令</title>
+    <link href="https://inkss.cn/article/linux/e8c3347c.html"/>
+    <id>https://inkss.cn/article/linux/e8c3347c.html</id>
+    <published>2018-09-09T16:00:00.000Z</published>
+    <updated>2019-09-10T08:20:51.331Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;OS： &lt;strong&gt;Deepin 15.5&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shell： &lt;strong&gt;zsh 5.3.1&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;提权 &lt;code&gt;sudo -s&lt;/code&gt;&lt;/p&gt;&lt;p&gt;可以通过命令前添加 sudo
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://inkss.cn/categories/linux/"/>
+    
+    
+      <category term="Linux" scheme="https://inkss.cn/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 管理私钥</title>
+    <link href="https://inkss.cn/article/git/d71b1012.html"/>
+    <id>https://inkss.cn/article/git/d71b1012.html</id>
+    <published>2018-09-07T16:00:00.000Z</published>
+    <updated>2019-09-10T08:20:36.651Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一-添加私钥&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-添加私钥&quot;&gt;&lt;/a&gt; 一、添加私钥&lt;/h2&gt;&lt;p&gt;1.Linux 平台：打开终端到 id_rsa 文件所在目录&lt;/p&gt;&lt;p&gt;2.Windows 平台：id_rsa
+        
+      
+    
+    </summary>
+    
+      <category term="git" scheme="https://inkss.cn/categories/git/"/>
+    
+    
+      <category term="Git" scheme="https://inkss.cn/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开源协议</title>
+    <link href="https://inkss.cn/article/other/e57bd50f.html"/>
+    <id>https://inkss.cn/article/other/e57bd50f.html</id>
+    <published>2018-09-07T16:00:00.000Z</published>
+    <updated>2019-09-10T08:21:07.583Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;&lt;p&gt;一张图看懂开源协议（图片来源见水印）&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="other" scheme="https://inkss.cn/categories/other/"/>
+    
+    
+      <category term="Git" scheme="https://inkss.cn/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jrebel 反代激活</title>
+    <link href="https://inkss.cn/article/info/89be439.html"/>
+    <id>https://inkss.cn/article/info/89be439.html</id>
+    <published>2018-09-07T16:00:00.000Z</published>
+    <updated>2019-09-10T08:20:44.043Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;JRebel 的社区激活取消了，不能用分享到脸书的方式激活插件了，有点桑心。搜索了一番本地激活方法，于此记录。&lt;/p&gt;&lt;h2 id=&quot;1-准备工具&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-准备工具&quot;&gt;&lt;/a&gt; 1
+        
+      
+    
+    </summary>
+    
+      <category term="info" scheme="https://inkss.cn/categories/info/"/>
+    
+    
+      <category term="Java" scheme="https://inkss.cn/tags/Java/"/>
+    
+      <category term="破解" scheme="https://inkss.cn/tags/%E7%A0%B4%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 快速上手</title>
+    <link href="https://inkss.cn/article/git/c8dc427f.html"/>
+    <id>https://inkss.cn/article/git/c8dc427f.html</id>
+    <published>2018-09-07T16:00:00.000Z</published>
+    <updated>2019-09-10T08:20:32.463Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;&lt;p&gt;主要用于快速的介绍一下必要的 git 相关知识，事实上大都采用客户端进行 Git 的命令操作，纯使用命令行在终端下的场景并不是很多，本文以快速上手为主，使用 Typora 编写。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="git" scheme="https://inkss.cn/categories/git/"/>
+    
+    
+      <category term="Git" scheme="https://inkss.cn/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 服务器配置 ASF 云挂卡</title>
+    <link href="https://inkss.cn/article/info/b46ef429.html"/>
+    <id>https://inkss.cn/article/info/b46ef429.html</id>
+    <published>2018-06-03T16:00:00.000Z</published>
+    <updated>2019-09-30T06:39:01.209Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;&lt;p&gt;ASF是由C#编写，能同时挂载多个 Steam 账号的挂卡工具。其不像 Idle Master 那样：同一时间只能为一个账号挂卡，需要后台运行 Steam 客户端，需启动额外进程模拟‘正在游戏’状态。ASF 不需要后台运行任何 Steam
+        
+      
+    
+    </summary>
+    
+      <category term="info" scheme="https://inkss.cn/categories/info/"/>
+    
+    
+      <category term="Linux" scheme="https://inkss.cn/tags/Linux/"/>
+    
+      <category term="Steam" scheme="https://inkss.cn/tags/Steam/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,9 @@
+# robots.txt https://inkss.cn
+User-agent: *
+Disallow: 
+Disallow: /about/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /archives/
+Sitemap: https://inkss.cn/sitemap.xml
+Sitemap: https://inkss.cn/baidusitemap.xml
